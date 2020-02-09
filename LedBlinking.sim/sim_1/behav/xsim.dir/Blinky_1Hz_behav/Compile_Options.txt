@@ -1,0 +1,1 @@
+-wto "354d7a08195e43f8be41950e14f3f8a9" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Blinky_1Hz_behav" "xil_defaultlib.Blinky_1Hz" "xil_defaultlib.glbl" -log "elaborate.log" 

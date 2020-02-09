@@ -1,0 +1,7 @@
+Running: xsim.dir/Blinky_1Hz_behav/xsimk.exe -simmode gui -wdb Blinky_1Hz_behav.wdb -simrunnum 0 -socket 51484
+Design successfully loaded
+Design Loading Memory Usage: 9452 KB (Peak: 9452 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 9964 KB (Peak: 9964 KB)
+Simulation CPU Usage: 15 ms

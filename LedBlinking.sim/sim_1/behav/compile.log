@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/031-17-0027/Documents/Digital System Design/LedBlinking/LedBlinking.srcs/sources_1/new/blink_led.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Blinky_1Hz
+WARNING: [VRFC 10-986] literal value truncated to fit in 32 bits [C:/Users/031-17-0027/Documents/Digital System Design/LedBlinking/LedBlinking.srcs/sources_1/new/blink_led.v:37]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/031-17-0027/Documents/Digital System Design/LedBlinking/LedBlinking.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

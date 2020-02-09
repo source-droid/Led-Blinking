@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file C:\Users\031-17-0027\Documents\Digital System Design\LedBlinking\LedBlinking.runs\impl_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Permission denied
